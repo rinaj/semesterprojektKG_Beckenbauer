@@ -1,0 +1,119 @@
+/* CSS Reset */
+*{
+	box-sizing: border-box;
+}
+
+body, h1, h2, h3, h4{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-family: 'UniversLTStd', Univers, Arial, sans-serif;
+	background-color: #D8D8D8;
+}
+
+h2{
+	font-size: 15px;
+	font-family: 'UniversLTStd-Light', Univers, Arial, sans-serif;
+	font-weight: lighter;
+	text-align: center;
+	margin-top: 10px;
+}
+
+h3{
+	font-size: 30px;
+	font-family: 'UniversLTStd-Light', Univers, Arial, sans-serif;
+	font-weight: lighter;
+	text-align: center;
+}
+
+/*Boxen*/
+
+.ueberGruppe {
+	margin: 0px auto 0px auto;
+	height: 72px;
+	width: 1200;
+}
+
+.box1{
+	height: 72px;
+	width: 200px;
+	float: left;
+	background-color: #fff;
+}
+
+.box2{
+	height: 72px;
+	width: 200px;
+	float: left;
+	background-color: #151515;
+}
+
+.box3{
+	height: 72px;
+	width: 200px;
+	float: left;
+	background-color: #A9F5F2;
+}
+
+.box4{
+	height: 72px;
+	width: 200px;
+	float: left;
+	background-color: #04B4AE;
+}
+
+.clear {
+	clear: both;
+}
+
+/*Typo*/
+
+.textWeiss{
+	color: #fff;
+}
+
+.textSchwarz{
+	color: #151515;
+}
+
+.textHell{
+	color: #A9F5F2;
+}
+
+.textDunkel{
+	color: #04B4AE;
+}
+
+.franz{
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 550px;
+	margin-right: 50px;
+	margin-bottom: 0px;
+	text-align: right;
+}
+
+.beckenbauer{
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-right: 47px;
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
